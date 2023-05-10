@@ -2,3 +2,9 @@ venv
 env
 /venv
 /env
+transit_data
+/transit_data
+exoTest.csv
+exoTrain.csv
+transit_data/
+.DS_Store
